@@ -4,6 +4,7 @@
 The Marketing Department of a global retail store is running a customer appreciation campaign on the occasion of Christmas and New Year. They need to deploy appropriate marketing program for each customer group and exploit potential customers to become loyal customers.
 The Marketing Director asked to provide a segmentation analysis base on RFM Model. 
 
+
 ## Analyze Requirement 
 
 ### Business Demand Overview
