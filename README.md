@@ -19,4 +19,5 @@ The Marketing Director asked to provide a segmentation analysis base on RFM Mode
 ## Insights and Recommendation
 
 ### Insight 1: 
-<img width="490" alt="Screenshot 2023-07-30 at 21 30 06" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/648ad906-49a6-4c51-bdda-e3c8a5f47018">
+<img width="601" alt="Screenshot 2023-08-07 at 11 40 27" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/7f707e90-a4c2-4234-ae34-e6b88624559e">
+<img width="779" alt="Screenshot 2023-08-07 at 11 40 48" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/ca294156-86fe-49f5-920c-d1563e17fa00">
