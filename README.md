@@ -18,9 +18,20 @@ The Marketing Director asked to provide a segmentation analysis base on RFM Mode
 
 ## Insights and Recommendation
 
-### Number of customers and Revenue per Segmentation: 
-<img width="601" alt="Screenshot 2023-08-07 at 11 40 27" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/7f707e90-a4c2-4234-ae34-e6b88624559e">
-<img width="779" alt="Screenshot 2023-08-07 at 11 40 48" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/ca294156-86fe-49f5-920c-d1563e17fa00">
-Insight: Top 5 number of customers respectively: "Potential Loyalist", "At Risk", "Hibernating customers", "Lost customers", "Champions".
-Top 5 Revenue segments: "At Risk", "Champions", "Loyal", "Need Attention", "Promising".
-Recommendation: Focus on 
+### Meaning of RFM Segments:
+![image](https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/04e74d97-a5be-430b-a978-df07eab45dbd)
+### Revenue and Profit per Segmentation: 
+<img width="790" alt="Pie" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/c1679b89-e341-4e2a-83d3-671691cc5bc9">
+<img width="727" alt="Profit" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/bd108390-6c1c-4923-a6fc-d0fb586ecf18">
+* Insight: 
+- Top 5 Revenue segments respectively: "At Risk", "Champions", "Loyal", "Need Attention", "Promising".
+- Top 5 profitable segments respectively: "At Risk", "Champions",  "Need Attention", "Cannot Lose Them", "Promising".
+* Recommendation: 
+- Enhance customer retention activities with groups "At Risk" and "Champions", as they contributed highest Revenue as well as Profit ratio.
+- At Risk (Spent big money and purchased often. But long time ago. Need to bring them back!): Send personalized emails to reconnect, offer renewals, provide helpful resources. 
+
+### Number of customers: 
+<img width="585" alt="bar" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/07fd34ea-012c-4d21-b719-76ec1774778f">
+* Insight: 
+- Top 5 number of customers respectively: "Potential Loyalist", "At Risk", "Hibernating customers", "Lost customers", "Champions".
+* Recommendation: Focus on group 
