@@ -23,7 +23,8 @@ The Marketing Director asked to provide a segmentation analysis base on RFM Mode
 ### Revenue and Profit per Segment: 
 <img width="790" alt="Pie" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/c1679b89-e341-4e2a-83d3-671691cc5bc9">
 <img width="727" alt="Profit" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/bd108390-6c1c-4923-a6fc-d0fb586ecf18">
-* Insight: 
+
+* Insight:
 - Top 5 Revenue segments respectively: "At Risk", "Champions", "Loyal", "Need Attention", "Promising".
 - Top 5 profitable segments respectively: "At Risk", "Champions",  "Need Attention", "Cannot Lose Them", "Promising".
 * Recommendation: Prioritize these groups: "At Risk", "Champions" and "Loyal", as they contributed highest Revenue as well as Profit ratio.
