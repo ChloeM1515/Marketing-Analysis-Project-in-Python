@@ -20,10 +20,8 @@ The Marketing Director asked to provide a segmentation analysis base on RFM Mode
 
 ### Meaning of RFM Segments:
 ![image](https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/04e74d97-a5be-430b-a978-df07eab45dbd)
-### Revenue and Profit per Segment: 
-<img width="790" alt="Pie" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/c1679b89-e341-4e2a-83d3-671691cc5bc9">
-<img width="727" alt="Profit" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/bd108390-6c1c-4923-a6fc-d0fb586ecf18">
 
+### Revenue and Profit per Segment: 
 
 **Insight:**
 - Top 5 Revenue segments respectively: "At Risk", "Champions", "Loyal", "Need Attention", "Promising".
@@ -33,9 +31,11 @@ The Marketing Director asked to provide a segmentation analysis base on RFM Mode
 - "At Risk": Need to bring them back - Send personalized emails to reconnect, offer renewals, provide helpful resources. 
 - "Champions": Reward them. Can be early adopters for new products.
 - "Loyal": Upsell higher value products. Ask them for reviews. Engage them.
+<img width="790" alt="Pie" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/c1679b89-e341-4e2a-83d3-671691cc5bc9">
+<img width="727" alt="Profit" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/bd108390-6c1c-4923-a6fc-d0fb586ecf18">
+
 
 ### Number of customers: 
-<img width="585" alt="bar" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/07fd34ea-012c-4d21-b719-76ec1774778f">
 
 **Insight:** 
 - Top 5 number of customers respectively: "Potential Loyalist", "At Risk", "Hibernating customers", "Lost customers", "Champions".
@@ -43,4 +43,7 @@ The Marketing Director asked to provide a segmentation analysis base on RFM Mode
 **Recommendation:** Focus on these group for customer retention activities:
 - "Potential Loyalist": Offer membership / loyalty program, recommend other products.
 - "Hibernating customers": Offer other relevant products and special discounts. Recreate brand value.
+
+<img width="585" alt="bar" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/07fd34ea-012c-4d21-b719-76ec1774778f">
+
 
