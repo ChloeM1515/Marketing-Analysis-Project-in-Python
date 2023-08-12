@@ -13,7 +13,10 @@ The Marketing Director asked to provide a segmentation analysis base on RFM Mode
 *Tools: Python
 
 ### Clarify Details
-
+- Data quality:
+  + FRom raw dataset, clean, exclude return table
+explore what
+draw what
 
 ## Insights and Recommendation
 
