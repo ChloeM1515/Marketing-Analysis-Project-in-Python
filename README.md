@@ -13,19 +13,17 @@ The Marketing Director asked to provide a segmentation analysis base on RFM Mode
 *Tools: Python
 
 ### Clarify Details
-- Data quality:
-  + FRom raw dataset, clean, exclude return table
-explore what
-draw what
+- Provide a Python analysis, including:
+  + Customers were categorized into each group following RFM method.
+  + Define top segments brought back highest revenue and profit.
+  + Define group of "Potential customers".
 
-## Insights and Recommendation
+## Insights and Suggestions
 
 ### Meaning of RFM Segments:
 ![image](https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/04e74d97-a5be-430b-a978-df07eab45dbd)
 
-### Revenue and Profit per Segment: 
-
-**Insight:**
+### Insights by Revenue and Profit per Segment: 
 - Top 5 Revenue segments respectively: "At Risk", "Champions", "Loyal", "Need Attention", "Promising".
 - Top 5 profitable segments respectively: "At Risk", "Champions",  "Need Attention", "Cannot Lose Them", "Promising".
 
