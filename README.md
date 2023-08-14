@@ -5,7 +5,7 @@ The Marketing Department of a global retail store is running a customer apprecia
 The Marketing Director asked to provide a segmentation analysis base on RFM Model. 
 
 
-## Clarify Requirements
+## Clarify Requirements abcd
 
 ### Analyze Requirement using User Stories
 <img width="736" alt="Screenshot 2023-07-30 at 18 08 00" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/7ebbf480-48c3-4462-9ba4-9ecaea22cdb6">
