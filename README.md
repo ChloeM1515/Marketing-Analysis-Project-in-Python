@@ -1,7 +1,7 @@
 # Marketing-Analysis-Project-in-Python
 
 ## Request
-The Marketing Department of a global retail store is running a customer appreciation campaign on the occasion of Christmas and New Year. They need to deploy appropriate marketing program for each customer group and exploit potential customers to become loyal customers.
+The Marketing Department of a global retail store is running a customer appreciation campaign on the occasion of Christmas and New Year. They need to deploy appropriate marketing program for **each customer group** and exploit **potential customers** to become loyal customers.
 The Marketing Director asked to provide a segmentation analysis base on RFM Model. 
 
 
@@ -13,10 +13,14 @@ The Marketing Director asked to provide a segmentation analysis base on RFM Mode
 *Tools: Python
 
 ### Clarify Details
-- Provide a Python analysis, including:
-  + Customers were categorized into each group following RFM method.
-  + Define top segments brought back highest revenue and profit.
-  + Define group of "Potential customers".
+Provide a Python analysis, including:
+- Segment overview:
+  + Customers categorized into each group following RFM method.
+  + Visualize number of customers, Revenue and Profit per segments.
+- "Potential" group:
+  + Identify buying behaviors via Channel and Category.
+  + Sales overtime
+  + Sales by location
 
 ## Insights and Suggestions
 
