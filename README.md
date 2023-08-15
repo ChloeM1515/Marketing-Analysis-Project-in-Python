@@ -5,7 +5,7 @@ The Marketing Department of a global retail store is running a customer apprecia
 The Marketing Director asked to provide a segmentation analysis base on RFM Model. 
 
 
-## Clarify Requirements abcd
+## Clarify Requirements
 
 ### Analyze Requirement using User Stories
 <img width="736" alt="Screenshot 2023-07-30 at 18 08 00" src="https://github.com/ChloeM1515/Sales-Management-Project-in-PowerBI/assets/130263988/7ebbf480-48c3-4462-9ba4-9ecaea22cdb6">
@@ -18,19 +18,21 @@ Provide a Python analysis, including:
   + Customers categorized into each group following RFM method.
   + Visualize number of customers, Revenue and Profit per segments.
 - "Potential" group:
-  + Identify buying behaviors via Channel and Category.
-  + Sales overtime
-  + Sales by location
+  + Identify buying behaviors via Channel, Category and Ship Method.
+  + Identify Sales overtime
 
-## Insights and Suggestions
 
 ### Meaning of RFM Segments:
 ![image](https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/04e74d97-a5be-430b-a978-df07eab45dbd)
 
+
+## Insights and Suggestions
+
 ### Insights by Revenue and Profit per Segment: 
 - Top 5 Revenue segments respectively: "At Risk", "Champions", "Loyal", "Need Attention", "Promising".
+  +
 - Top 5 profitable segments respectively: "At Risk", "Champions",  "Need Attention", "Cannot Lose Them", "Promising".
-
+  + 
 **Recommendation:** Prioritize these groups: "At Risk", "Champions" and "Loyal", as they contributed highest Revenue as well as Profit ratio.
 - "At Risk": Need to bring them back - Send personalized emails to reconnect, offer renewals, provide helpful resources. 
 - "Champions": Reward them. Can be early adopters for new products.
@@ -39,7 +41,7 @@ Provide a Python analysis, including:
 <img width="727" alt="Profit" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/bd108390-6c1c-4923-a6fc-d0fb586ecf18">
 
 
-### Number of customers: 
+### Insights by group "Potential Loyalist": 
 
 **Insight:** 
 - Top 5 number of customers respectively: "Potential Loyalist", "At Risk", "Hibernating customers", "Lost customers", "Champions".
