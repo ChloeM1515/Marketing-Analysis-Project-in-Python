@@ -19,7 +19,7 @@ Provide a Python analysis, including:
   + Visualize number of customers, Revenue and Profit per segments.
 - "Potential" group:
   + Identify buying behaviors via Channel, Category and Ship Method.
-  + Identify sales overtime
+  + Identify ssales overtime
 
 
 ### Meaning of RFM Segments:
