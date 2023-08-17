@@ -41,6 +41,14 @@ Provide a Python analysis, including:
   + "Champions": Reward them - Can be early adopters for new products.
   + "Loyal": Engage them - Upsell higher value products. Ask them for reviews. 
   + "Need Attention": Reactivate them - Make limited time offers. Recommend based on past purchases.
+- Other groups:
+  + "Potential Loyalist": Offer membership / loyalty program, recommend other products.
+  + "New Customers": Provide onboarding support, give them early success, start building relationship.
+  + "Promising": Create brand awareness, offer free trials.
+  + "About To Sleep": Share valuable resources, recommend popular products / renewals at discount, reconnect with them.
+  + "Cannot Lose Them": Win them back via renewals or newer products, don’t lose them to competition, talk to them.
+  + "Hibernating customers": Offer other relevant products and special discounts. Recreate brand value.
+  + "Lost customers": Revive interest with reach out campaign, ignore otherwise.
 
 
  
