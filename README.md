@@ -51,6 +51,7 @@ Provide a Python analysis, including:
   + "Lost customers": Revive interest with reach out campaign, ignore otherwise.
 
 
+
  
 ### Insights by "Potential Loyalist" group: 
 <img width="785" alt="Rev_chan" src="https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python/assets/130263988/e948ebf6-56bc-47ee-8339-171e7f56c0d1">
